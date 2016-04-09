@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>    
+    <drupalUser>balschmiter</drupalUser>
+    <drupalPassword>sarahpienz</drupalPassword>
+    <drupalConfigName>simmanager.settings</drupalConfigName>
+    <databaseHost>localhost</databaseHost>
+    <databasePort>5433</databasePort>
+    <databaseName>drupal8</databaseName>
+    <databaseUser>postgres</databaseUser>
+    <databasePassword>postgres</databasePassword>
+</root>
